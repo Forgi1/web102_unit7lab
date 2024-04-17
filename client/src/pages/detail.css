@@ -1,0 +1,9 @@
+.detailPage {
+    color: #efe6e6; /* Ensuring text is a dark color */
+    background: #2c2a2a; /* Light background */
+    padding: 20px; /* Some padding around the content */
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Optional: Adds a shadow for better visibility */
+  }
+  
